@@ -13,6 +13,8 @@ The installation steps are:
   `conda install pip`
 
 3. Install the dependencies - `pip install -r requirements.txt`
+4. Add an environment file called `*.env`
+5. Add your keys to the env file
 
 ### Unit 1- Foundation of LLM agents
 Coding Exercise for the first Self-Ask Agent:
