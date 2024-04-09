@@ -6,3 +6,12 @@ langchain-openai
 langchainhub
 python-dotenv
 pyyaml
+arxiv
+mediawikiapi
+wikibase-rest-api-client
+pymupdf
+youtube-search
+termcolor
+langchain-anthropic
+torch
+transformers
