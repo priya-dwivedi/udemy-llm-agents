@@ -15,3 +15,16 @@ termcolor
 langchain-anthropic
 torch
 transformers
+together
+sentence_transformers
+datasets
+chromadb
+langchain-google-genai
+tiktoken
+google-generativeai
+embedchain
+youtube_transcript_api
+pytube
+embedchain[together]
+langgraph
+grandalf
