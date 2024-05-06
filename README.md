@@ -38,7 +38,7 @@ Coding Exercise for the second unit on Tools:
 - Run Locally using Notebook: [OpenAI-Function-Calling.ipynb](./Unit2-Tools/OpenAI-Function-Calling.ipynb)
 - Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rWZqczP4dBiYWSryHBstSVBkoGflhCJi?usp=sharing)
 
-### Unit 2- Memory 
+### Unit 3- Memory 
 This unit focuses on different types of memory and integrating memory into the Agent
 Coding Exercise for the third unit on Memory:
 1. Langchain Short term Memory
