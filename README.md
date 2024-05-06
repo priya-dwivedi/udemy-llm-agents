@@ -52,3 +52,10 @@ Coding Exercise for the third unit on Memory:
 3. Simple Multimodal RAG
 - Run Locally using Notebook: [OpenAI-Function-Calling.ipynb](./Unit2-Tools/OpenAI-Function-Calling.ipynb)
 - Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rWZqczP4dBiYWSryHBstSVBkoGflhCJi?usp=sharing)
+
+4. Knowledge-Agent
+Can only be run locally
+Instructions:
+* Navigate to the correct directory: `cd Unit3-Memory/knowledge-agent`
+* Optionally: Delete current profile : `rm current_profile.json`
+* Run Streamlit interface: `streamlit run chatbot.py`
