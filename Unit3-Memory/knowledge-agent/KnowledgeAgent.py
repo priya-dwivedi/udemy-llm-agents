@@ -103,8 +103,6 @@ class Chatbot:
             Don't ask the user questions. Just respond with what you have.
             '''
         self.memory = ChatMessageHistory(session_id="test-session")
-
-
         self.tools = [TavilySearchResults(max_results=1)]
 
     def load_json_file(self, file_path):
