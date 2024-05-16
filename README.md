@@ -43,15 +43,15 @@ This unit focuses on different types of memory and integrating memory into the A
 Coding Exercise for the third unit on Memory:
 1. Langchain Short term Memory
 - Run Locally using Notebook: [Langchain-Short-term-memory.ipynb](./Unit3-Memory/Langchain-Short-term-Memory.ipynb)
-- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WAv7GwDHBrI4GZsGwrD0ssXGT8j7G4_q?usp=sharing)
 
 2. RAG pipeline and RAG compared to Long Context LLMs
 - Run Locally using Notebook: [RAG_vs_LongContext.ipynb](./Unit3-Memory/RAG_vs_LongContext.ipynb)
 - Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vv39cL0DTwxy1WJB2w2VBFbvh7FuDjxi?usp=sharing)
 
 3. Simple Multimodal RAG
-- Run Locally using Notebook: [OpenAI-Function-Calling.ipynb](./Unit2-Tools/OpenAI-Function-Calling.ipynb)
-- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rWZqczP4dBiYWSryHBstSVBkoGflhCJi?usp=sharing)
+- Run Locally using Notebook: [MultiModal-RAG.ipynb](./Unit3-Memory/MultiModal_RAG.ipynb)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yX2r1u_euYuxODzTyoeFPhCtUgymq7Gh?usp=sharing)
 
 4. Knowledge-Agent
 Can only be run locally
