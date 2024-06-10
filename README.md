@@ -59,3 +59,25 @@ Instructions:
 * Navigate to the correct directory: `cd Unit3-Memory/knowledge-agent`
 * Optionally: Delete current profile : `rm current_profile.json`
 * Run Streamlit interface: `streamlit run chatbot.py`
+
+### Unit 4-Planning
+This unit focuses on different types of memory and integrating memory into the Agent
+Coding Exercise for the third unit on Memory:
+1. Plannning with task decomposition
+- Run Locally using Notebook: [Planning_with_task_decomposition.ipynb](./Unit4-Planning/Planning_with_task_decomposition.ipynb)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WAv7GwDHBrI4GZsGwrD0ssXGT8j7G4_q?usp=sharing)
+
+2. Skeleton of Thought Generation
+- Run Locally using Notebook: [RAG_vs_LongContext.ipynb](./Unit3-Memory/RAG_vs_LongContext.ipynb)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vv39cL0DTwxy1WJB2w2VBFbvh7FuDjxi?usp=sharing)
+
+3. Simple Multimodal RAG
+- Run Locally using Notebook: [MultiModal-RAG.ipynb](./Unit3-Memory/MultiModal_RAG.ipynb)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yX2r1u_euYuxODzTyoeFPhCtUgymq7Gh?usp=sharing)
+
+4. Knowledge-Agent
+Can only be run locally
+Instructions:
+* Navigate to the correct directory: `cd Unit3-Memory/knowledge-agent`
+* Optionally: Delete current profile : `rm current_profile.json`
+* Run Streamlit interface: `streamlit run chatbot.py`
