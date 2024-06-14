@@ -61,23 +61,38 @@ Instructions:
 * Run Streamlit interface: `streamlit run chatbot.py`
 
 ### Unit 4-Planning
-This unit focuses on different types of memory and integrating memory into the Agent
-Coding Exercise for the third unit on Memory:
+This unit focuses on different types of planning and how to improve the Agent's accuracy and performance with planning 
+Coding Exercise for the fourth unit on Planning:
 1. Plannning with task decomposition
 - Run Locally using Notebook: [Planning_with_task_decomposition.ipynb](./Unit4-Planning/Planning_with_task_decomposition.ipynb)
 - Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WAv7GwDHBrI4GZsGwrD0ssXGT8j7G4_q?usp=sharing)
 
 2. Skeleton of Thought Generation
-- Run Locally using Notebook: [RAG_vs_LongContext.ipynb](./Unit3-Memory/RAG_vs_LongContext.ipynb)
+- Run Locally using Notebook: [Skeleton_of_Thought_Generationa.ipynb](./Unit4-Planning/Skeleton_of_Thought_Generation.ipynb)
 - Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vv39cL0DTwxy1WJB2w2VBFbvh7FuDjxi?usp=sharing)
 
-3. Simple Multimodal RAG
-- Run Locally using Notebook: [MultiModal-RAG.ipynb](./Unit3-Memory/MultiModal_RAG.ipynb)
+3. Basics of Langgraph
+- Run Locally using Notebook: [Basics_of_Langgraph.ipynb](./Unit4-Planning/Basics_of_Langgraph.ipynb)
 - Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yX2r1u_euYuxODzTyoeFPhCtUgymq7Gh?usp=sharing)
 
-4. Knowledge-Agent
+4. Reflection Agent
+- Run Locally using Notebook: [Reflection_Agent.ipynb](./Unit4-Planning/Reflection_Agent.ipynb)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yX2r1u_euYuxODzTyoeFPhCtUgymq7Gh?usp=sharing)
+
+4. Reflexion Agent
+- Run Locally using Notebook: [Reflexion_Agent.ipynb](./Unit4-Planning/Reflexion_Agent.ipynb)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yX2r1u_euYuxODzTyoeFPhCtUgymq7Gh?usp=sharing)
+
+### Unit 5-Agent Examples
+This unit focuses on building more complex agents combining everything learned so far in the course
+Coding Exercise for the fifth unit on Agent Examples:
+1. Agentic-RAG
+- Run Locally using Notebook: [Agentic-RAG.ipynb](./Unit5-Agent-Examples/Agentic-RAG.ipynb)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WAv7GwDHBrI4GZsGwrD0ssXGT8j7G4_q?usp=sharing)
+
+2. Movie Recommendation Bot
 Can only be run locally
 Instructions:
-* Navigate to the correct directory: `cd Unit3-Memory/knowledge-agent`
-* Optionally: Delete current profile : `rm current_profile.json`
+* Navigate to the correct directory: `cd Unit5-Agent_Examples/Movie_Recommendation_Agent`
 * Run Streamlit interface: `streamlit run chatbot.py`
+
