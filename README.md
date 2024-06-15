@@ -88,7 +88,7 @@ This unit focuses on building more complex agents combining everything learned s
 Coding Exercise for the fifth unit on Agent Examples:
 1. Agentic-RAG
 - Run Locally using Notebook: [Agentic-RAG.ipynb](./Unit5-Agent-Examples/Agentic-RAG.ipynb)
-- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WAv7GwDHBrI4GZsGwrD0ssXGT8j7G4_q?usp=sharing)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10V6iHz_qnfXwV2bCgLDeSwUNWw8GgzE6?usp=sharing)
 
 2. Movie Recommendation Bot
 Can only be run locally
