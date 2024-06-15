@@ -65,23 +65,23 @@ This unit focuses on different types of planning and how to improve the Agent's 
 Coding Exercise for the fourth unit on Planning:
 1. Plannning with task decomposition
 - Run Locally using Notebook: [Planning_with_task_decomposition.ipynb](./Unit4-Planning/Planning_with_task_decomposition.ipynb)
-- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WAv7GwDHBrI4GZsGwrD0ssXGT8j7G4_q?usp=sharing)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EzQ8-3ubyChDXaX5VRie58Bw5z6hDnkK?usp=sharing)
 
 2. Skeleton of Thought Generation
 - Run Locally using Notebook: [Skeleton_of_Thought_Generationa.ipynb](./Unit4-Planning/Skeleton_of_Thought_Generation.ipynb)
-- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vv39cL0DTwxy1WJB2w2VBFbvh7FuDjxi?usp=sharing)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JjgbvuhJdna-6ZgT0MdDOP7iJ-ftcxKr?usp=sharing)
 
 3. Basics of Langgraph
 - Run Locally using Notebook: [Basics_of_Langgraph.ipynb](./Unit4-Planning/Basics_of_Langgraph.ipynb)
-- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yX2r1u_euYuxODzTyoeFPhCtUgymq7Gh?usp=sharing)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UWYtytGMC4UtEE4LoFmVcMbrf0Wke0jn?usp=sharing)
 
 4. Reflection Agent
 - Run Locally using Notebook: [Reflection_Agent.ipynb](./Unit4-Planning/Reflection_Agent.ipynb)
-- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yX2r1u_euYuxODzTyoeFPhCtUgymq7Gh?usp=sharing)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15hi4bAmZflP_Z7pS75FhbbsA8kVkQ2co?usp=sharing)
 
 4. Reflexion Agent
 - Run Locally using Notebook: [Reflexion_Agent.ipynb](./Unit4-Planning/Reflexion_Agent.ipynb)
-- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yX2r1u_euYuxODzTyoeFPhCtUgymq7Gh?usp=sharing)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s0VCGf7nboqoBs-Kh-bi2n6Nlo4smQBc?usp=sharing)
 
 ### Unit 5-Agent Examples
 This unit focuses on building more complex agents combining everything learned so far in the course
