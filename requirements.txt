@@ -28,3 +28,4 @@ pytube
 embedchain[together]
 langgraph
 grandalf
+semantic-router

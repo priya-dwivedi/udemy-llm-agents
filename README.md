@@ -96,3 +96,7 @@ Instructions:
 * Navigate to the correct directory: `cd Unit5-Agent_Examples/Movie_Recommendation_Agent`
 * Run Streamlit interface: `streamlit run chatbot.py`
 
+3. Coding Assistant
+- Run Locally using Notebook: [Coding-Assistant.ipynb](./Unit5-Agent-Examples/Coding-Assistant.ipynb)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10V6iHz_qnfXwV2bCgLDeSwUNWw8GgzE6?usp=sharing)
+
