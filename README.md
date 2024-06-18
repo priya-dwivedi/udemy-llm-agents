@@ -98,5 +98,5 @@ Instructions:
 
 3. Coding Assistant
 - Run Locally using Notebook: [Coding-Assistant.ipynb](./Unit5-Agent-Examples/Coding-Assistant.ipynb)
-- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10V6iHz_qnfXwV2bCgLDeSwUNWw8GgzE6?usp=sharing)
+- Run on Colab with Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/drive/122G2pJ9f_-01ROt00Hd9WEM_l25P_aN_?usp=sharing)
 
