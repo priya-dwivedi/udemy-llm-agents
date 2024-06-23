@@ -31,7 +31,7 @@ class MovieSelectionTool():
 
       ## Step 1: Load CSV
       important_columns = ['title', 'movie_genres', 'year', 'rating', 'overview']
-      df = pd.read_csv('data/movie_ratings.csv')
+      df = pd.read_csv('../data/movie_ratings.csv')
       df = df.dropna()
       df = df[important_columns]
 

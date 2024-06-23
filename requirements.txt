@@ -22,10 +22,10 @@ chromadb
 langchain-google-genai
 tiktoken
 google-generativeai
-embedchain
+embedchain==0.1.111
 youtube_transcript_api
 pytube
-embedchain[together]
 langgraph
 grandalf
 semantic-router
+ipykernel
